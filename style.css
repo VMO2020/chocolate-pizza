@@ -101,6 +101,11 @@ a:focus {
 .sub-title {
 	display: flex;
 	justify-content: space-between;
+	align-items: center;
+}
+
+.print-icon {
+	height: 0.8rem;
 }
 
 .image-container {
